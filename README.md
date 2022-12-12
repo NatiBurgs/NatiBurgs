@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Natalia 👋 👾 💻 🚀 👩‍🚀 
 
-<!--
-**NatiBurgs/NatiBurgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student who is passionate about writing code, solving problems and automating stuff.
 
-Here are some ideas to get you started:
+-🎓  I am currently a programming student at UTN.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-👩‍💻🐍  I’m currently learning  Phyton and SQLite.
+
+-🚀  I’m looking for learning any more from technology.
+
+-📫  How to reach me: [Linkedin](https://www.linkedin.com/in/natalia-burgos-817705ba/) [Gmail](mailto:nataliaburgos182@gmail.com)
+
+
